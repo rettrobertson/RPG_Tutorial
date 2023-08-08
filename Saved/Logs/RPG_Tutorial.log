@@ -1280,3 +1280,158 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.08-22.26.38:065][  0]LogViewport: Scene viewport resized to 1561x621, mode Windowed.
 [2023.08.08-22.26.38:162][  1]LogTurnkeySupport: Turnkey Device: Win64@RETTS_LAPTOP: (Name=RETTS_LAPTOP, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
 [2023.08.08-22.26.38:368][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.26.59:306][ 96]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/EquipmentSystem/UI/UI_EquipableSlot.UI_EquipableSlot) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.08.08-22.26.59:306][ 96]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/EquipmentSystem/UI/UI_EquipableSlot.UI_EquipableSlot
+[2023.08.08-22.26.59:307][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.26.59:307][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.26.59:309][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.26.59:309][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.26.59:314][ 96]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.08.08-22.27.00:613][ 96]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/EquipmentSystem/UI/UI_ItemSlot.UI_ItemSlot) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.08.08-22.27.00:613][ 96]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/EquipmentSystem/UI/UI_ItemSlot.UI_ItemSlot
+[2023.08.08-22.27.00:613][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.27.00:613][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.27.00:616][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.27.00:616][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.27.00:659][ 96]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/EquipmentSystem/S_Slots.S_Slots) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.08.08-22.27.00:659][ 96]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/EquipmentSystem/S_Slots.S_Slots
+[2023.08.08-22.27.00:690][ 96]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/EquipmentSystem/UI/WP_Equipment.WP_Equipment) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.08.08-22.27.00:690][ 96]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/EquipmentSystem/UI/WP_Equipment.WP_Equipment
+[2023.08.08-22.27.00:690][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.27.00:690][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.27.00:693][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.27.00:693][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.27.00:735][ 96]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/EquipmentSystem/BPC_EquipmentSystem.BPC_EquipmentSystem) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.08.08-22.27.00:736][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EquipmentSystem/BPC_EquipmentSystem.BPC_EquipmentSystem
+[2023.08.08-22.27.00:737][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.27.00:737][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.27.00:835][ 96]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.08-22.28.41:760][444]LogDerivedDataCache: C:/Users/rettr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.744 and deleted 8142 files with total size 407 MiB and 8047 empty folders. Scanned 8711 files in 10957 folders with total size 479 MiB.
+[2023.08.08-22.29.59:716][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.08-22.29.59:730][644]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.08-22.29.59:732][644]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.08-22.29.59:732][644]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.08-22.29.59:732][644]LogWorldPartition: Display: GetPartitionedActors took 25 us
+[2023.08.08-22.29.59:733][644]LogWorldPartition: Display: GenerateStreaming took 357 us
+[2023.08.08-22.29.59:734][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.08-22.29.59:738][644]PIE: New page: PIE session: ThirdPersonMap (Aug 8, 2023, 10:29:59 AM)
+[2023.08.08-22.29.59:744][644]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.08.08-22.29.59:744][644]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.08-22.29.59:744][644]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.08-22.29.59:758][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013319s)
+[2023.08.08-22.29.59:758][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.013418s)
+[2023.08.08-22.29.59:759][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.08-22.29.59:759][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.08-22.29.59:760][644]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.08-22.29.59:761][644]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.08-22.29.59:761][644]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.08-22.29.59:761][644]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.08-22.29.59:764][644]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.08.08-22.29.59:764][644]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 876 ms)
+[2023.08.08-22.29.59:764][644]LogPlayLevel: PIE: World Init took: (0.005701s)
+[2023.08.08-22.29.59:819][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.08.08-22.29.59:823][644]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.08-22.29.59:823][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.08-22.29.59:823][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.08-22.29.59:823][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.08-22.29.59:823][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.08-22.29.59:824][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.08-22.29.59:824][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.08-22.29.59:824][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.08-22.29.59:824][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.08-22.29.59:825][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.08-22.29.59:825][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.08-22.29.59:825][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.08-22.29.59:828][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.08-22.30.00:430][644]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.08-22.30.00:430][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.08-22.30.00:430][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.08-22.30.00:431][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.08-22.30.00:432][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.08.08-22.30.00:432][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.08.08-22.30.00:434][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.08.08-22.30.00:434][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.08.08-22.30.00:434][644]LogInit: FAudioDevice initialized with ID 2.
+[2023.08.08-22.30.00:434][644]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.08.08-22.30.00:434][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.08-22.30.00:438][644]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.08-22.30.00:443][644]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.08.08-16.30.00
+[2023.08.08-22.30.00:449][644]LogWorld: Bringing up level for play took: 0.010009
+[2023.08.08-22.30.00:451][644]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.08.08-22.30.00:467][644]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.08.08-22.30.00:467][644]LogScript: Warning: Script Msg called by: ABP_RPG_Character_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPG_Character_C_0
+[2023.08.08-22.30.00:483][644]LogBlueprintUserMessages: [BP_AIController_Boss_C_0] Hit
+[2023.08.08-22.30.00:488][644]PIE: Server logged in
+[2023.08.08-22.30.00:490][644]PIE: Play in editor total start time 0.76 seconds.
+[2023.08.08-22.30.00:515][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:515][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:516][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:516][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:517][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:517][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:518][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:519][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:519][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:519][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:519][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:521][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:521][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:654][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:655][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:655][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:656][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:657][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:658][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:659][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:659][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:660][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:660][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:661][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:661][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.00:662][645]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: ================================================
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Total job queries 10, among them cache hits 0 (0.00%)
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: RAM used: 1.15 KiB of 819.20 MiB budget. Usage: 0.00%
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 5.12 s
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Job execution time: average 5.10 s, max 5.10 s
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Job life time (pending + execution): average 5.14 s, max 5.14
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.14 s
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.08-22.30.19:640][ 91]LogShaderCompilers: Display: Average processing rate: 0.19 jobs/sec
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Total thread time: 1.376 s
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Total thread preprocess time: 0.12 s
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Percentage time preprocessing: 8.76%
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Effective parallelization: 0.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2023.08.08-22.30.19:641][ 91]LogShaderCompilers: Display: ================================================
+[2023.08.08-22.30.52:111][772]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.08.08-22.30.52:111][772]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.08.08-22.30.52:111][772]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.08.08-22.31.00:247][974]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.08.08-22.31.00:247][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.08.08-22.32.30:095][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.08-22.32.30:095][287]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.08-22.32.30:097][287]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.08-22.32.30:098][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.08-22.32.30:099][287]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.08.08-22.32.30:131][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.08-22.32.30:142][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.08-22.32.30:195][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.08-22.32.30:195][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.08-22.32.30:195][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.08-22.32.30:198][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.08-22.32.30:228][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.08.08-22.32.30:277][287]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.32.30:292][288]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.08-22.32.30:307][288]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.08-22.38.24:982][918]LogViewport: Scene viewport resized to 1380x530, mode Windowed.
+[2023.08.08-22.38.27:149][918]LogViewport: Scene viewport resized to 1561x621, mode Windowed.
